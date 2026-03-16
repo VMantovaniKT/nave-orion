@@ -22,7 +22,8 @@ Este projeto implementa um algoritmo de verificação de segurança que simula a
 ## ▶️ Como Executar
 
 1. Acesse o notebook pelo Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([LINK_DO_COLAB_AQUI](https://colab.research.google.com/drive/1k9geij84sCA6iqYNTvgjnkhk93bbXIbB#scrollTo=a5W9kGQ5Mn-E))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k9geij84sCA6iqYNTvgjnkhk93bbXIbB#scrollTo=a5W9kGQ5Mn-E)
+
 
 2. Execute todas as células em ordem
 3. Insira os dados quando solicitado
