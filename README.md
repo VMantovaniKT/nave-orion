@@ -27,7 +27,7 @@ Este projeto implementa um algoritmo de verificação de segurança que simula a
 
 2. Execute todas as células em ordem
 3. Insira os dados quando solicitado
-4. Caso o dado inserido esteja fora da faixa segura o algoritmo encerra e aparece a mensagem de "Abordando decolagem"
+4. Caso o dado inserido esteja fora da faixa segura o algoritmo encerra e aparece a mensagem de "Abortando decolagem"
 
 ## 🖥️ Exemplo de Execução
 ```
